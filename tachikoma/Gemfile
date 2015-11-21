@@ -4,3 +4,4 @@ source "https://rubygems.org"
 # gem "rails"
 gem 'tachikoma'
 gem 'dotenv'
+gem 'tachikoma_ai', path: '/Users/sinsoku/projects/github/sinsoku/tachikoma_ai'

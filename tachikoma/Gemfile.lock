@@ -1,3 +1,9 @@
+PATH
+  remote: /Users/sinsoku/projects/github/sinsoku/tachikoma_ai
+  specs:
+    tachikoma_ai (0.1.0)
+      tachikoma (>= 4.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -33,6 +39,7 @@ PLATFORMS
 DEPENDENCIES
   dotenv
   tachikoma
+  tachikoma_ai!
 
 BUNDLED WITH
    1.10.6
