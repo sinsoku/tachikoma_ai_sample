@@ -1,0 +1,6 @@
+url:
+  'https://github.com/sinsoku/tachikoma_ai_sample.git'
+type:
+  'shared'
+git_clone_depth:
+  50
